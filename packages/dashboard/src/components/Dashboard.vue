@@ -201,7 +201,7 @@
 
     <div class="p-col-12 p-lg-6">
       <div class="card">
-        <h1 style="font-size: 16px">Recent Sales</h1>
+        <h1 style="font-size: 16px">Recent Saless</h1>
         <DataTable
           :value="products"
           class="p-datatable-customers"
